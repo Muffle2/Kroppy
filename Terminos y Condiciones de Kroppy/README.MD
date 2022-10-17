@@ -10,6 +10,3 @@
 <h3>Mini indíce</h3>
 <b><p><a href="">- Indice</a><a href=""><br>- Politicas de Servicio</a><br>- Politicas de Privacidad</a></p></b>
 </div>
-
-
-![Nami_terms](https://user-images.githubusercontent.com/71246795/182919608-7524bc03-63c3-4c14-b7c7-b90a276d07cf.png)
